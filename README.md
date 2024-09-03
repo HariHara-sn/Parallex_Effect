@@ -1,4 +1,4 @@
-# travel_place
+# ParallexUI
 
 A new Flutter project.
 
