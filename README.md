@@ -5,11 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 # Screenshot 1
-<img src="https://github.com/Mirzaazmath/flutter_travel_places/blob/main/assets/output/Screenshot1.png" height="400">
+<img src="https://github.com/Mirzaazmath/flutter_travel_places/blob/main/assets/output/image.png" height="400">
 
 
 # Screenshot 2
-<img src="https://github.com/Mirzaazmath/flutter_travel_places/blob/main/assets/output/Screenshot2.png" height="400">
+<img src="https://raw.githubusercontent.com/HariHara-sn/Parallex_Effect/master/assets/output/Screenshot2.png" height="400">
 
 
 
