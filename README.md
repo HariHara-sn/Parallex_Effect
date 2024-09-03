@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 # Screenshot 1
-<img src="https://github.com/Mirzaazmath/flutter_travel_places/blob/main/assets/output/image.png" height="400">
+<img src="https://github.com/HariHara-sn/Parallex_Effect/blob/master/assets/output/image.png" height="400">
 
 
 # Screenshot 2
